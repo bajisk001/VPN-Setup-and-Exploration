@@ -34,7 +34,7 @@ The purpose of this hands-on exploration is to:
 ### 2. VPN Connection Setup
 - Logged in and connected to the **nearest available server**.  
 - Verified connection status from ProtonVPN client.  
-- ![VPN Connected](Screenshots/VPN_Conn_status.png)
+- ![VPN Connected](Screenshots/Vpn_Conn_status.png)
 
 ### 3. IP Address Verification
 - Checked the public IP before and after connecting using **whatismyipaddress.com**.  
