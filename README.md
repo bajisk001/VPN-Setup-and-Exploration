@@ -34,13 +34,13 @@ The purpose of this hands-on exploration is to:
 ### 2. VPN Connection Setup
 - Logged in and connected to the **nearest available server**.  
 - Verified connection status from ProtonVPN client.  
-- ![VPN Connected](Screenshots/VPN_Connected.png)
+- ![VPN Connected](Screenshots/VPN_Conn_status.png)
 
 ### 3. IP Address Verification
 - Checked the public IP before and after connecting using **whatismyipaddress.com**.  
 - Confirmed successful IP masking.  
-- ![IP Address Before VPN](Screenshots/IP_Before_VPN.png)  
-- ![IP Address After VPN](Screenshots/IP_After_VPN.png)
+- ![IP Address Before VPN](Screenshots/ip_address_check_before_vpn.png)  
+- ![IP Address After VPN](Screenshots/ip_address_check_after_vpn.png)
 
 ### 4. Encrypted Traffic Confirmation
 - Browsed websites like Google and YouTube while connected.  
@@ -49,8 +49,7 @@ The purpose of this hands-on exploration is to:
 ### 5. Performance & Speed Test
 - Conducted speed tests using **fast.com** with VPN enabled and disabled.  
 - Observed slight reduction in speed while VPN was active (expected).  
-- ![Speed Test VPN Enabled](Screenshots/Speed_VPN_Enabled.png)  
-- ![Speed Test VPN Disabled](Screenshots/Speed_VPN_Disabled.png)
+- ![Speed Test VPN Enabled](Screenshots/speedtest_with_vpn.png)  
 
 ### 6. Disconnection & Comparison
 - Disconnected VPN and compared browsing speed, IP, and geolocation.  
